@@ -2,7 +2,8 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HyeonjeYang/electripyyy_lab/blob/main/biophysics_em_toys.ipynb)
 
-One self-contained Jupyter notebook for Seoul National University's Summer 2026 undergraduate Introduction to Biophysics course, covering electric fields, charged particles, and electromagnetic measurements in biology. No external EM repositories are imported; all reusable code lives in the notebook setup cell.
+서울대학교 생물물리학입문_5차시: 생물전자기학 - 생체분자의 전기적 성질과 기초 전자기학
+강의에 사용될 교육용 시뮬레이션 자료입니다.
 
 ## Sections
 
